@@ -53,7 +53,7 @@ python3 -m pip install --user pillow
 ### All uploads years
 
 ```bash
-python3.12 optimize-images.py --all-uploads /home/bparts/public_html/wp-content/
+python3.12 optimize-images.py --all-uploads /home/USER/public_html/wp-content/uploads
 ```
 
 ---
