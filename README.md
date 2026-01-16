@@ -47,13 +47,13 @@ python3 -m pip install --user pillow
 ### Single year
 
 ```bash
-./optimize-images.py 2026 --uploads /home/USER/public_html/wp-content/uploads
+python optimize-images.py 2026 --uploads /home/USER/public_html/wp-content/uploads
 ```
 
 ### All uploads years
 
 ```bash
-python3.12 optimize-images.py --all-uploads /home/USER/public_html/wp-content/uploads
+python optimize-images.py --all-uploads /home/USER/public_html/wp-content/uploads
 ```
 
 ---
